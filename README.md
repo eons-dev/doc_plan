@@ -1,6 +1,18 @@
 # Eons
 
+## Current State
+
+Here's where we're at presently. You can find out more on [https://eons.llc](https://eons.llc)
+
 ![progress](./inc/eons.dev.svg)
+
+## Contribution
+
+If you'd like to get involved, please do!
+
+We welcome pull requests to this repo as with all others.
+
+If you'd like to reach out to us, you can do so on [Matrix](https://matrix.org/) at `@community:eons.chat`.
 
 ## History
 
